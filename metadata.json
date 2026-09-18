@@ -1,0 +1,6 @@
+{
+  "name": "AurumTrack",
+  "description": "Secure gold shipping and logistics platform featuring chain of custody tracking, multi-organization isolation, and compliance audit architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
